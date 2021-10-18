@@ -7,7 +7,7 @@ Projects I was/am currently invovled in:
 
 📲 Creating ML models for improved user-conversion rates  
   
-🧮 Using Bayesian Statistics/Bayesian Modeling to help facilitate rehabilitations in Stoke Patients  
+🧮 Using Bayesian Statistics/Bayesian Modeling to help facilitate rehabilitations in Stroke Patients  
   
 📡 Applying AI techniques to auto-detect and delete noise from datasets  
 
